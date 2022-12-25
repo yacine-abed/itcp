@@ -1,0 +1,6 @@
+mkdir sharing_is_caring
+mkdir temp 
+cd temp
+mkdir ITC
+cd ..
+move sharing_is_caring temp/ITC
